@@ -14,7 +14,7 @@
  * limitations under the License.
  *
  */
-package com.xyzcorp.ch02.helloworld;
+package com.xyzcorp;
 
 import static java.lang.invoke.MethodHandles.lookup;
 import static org.assertj.core.api.Assertions.assertThat;
