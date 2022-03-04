@@ -14,7 +14,7 @@
  * limitations under the License.
  *
  */
-package io.github.bonigarcia.webdriver.jupiter.ch03.wait;
+package com.xyzcorp.ch03.wait;
 
 import java.time.Duration;
 

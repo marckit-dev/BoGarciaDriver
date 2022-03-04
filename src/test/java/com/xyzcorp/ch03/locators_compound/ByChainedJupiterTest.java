@@ -14,7 +14,7 @@
  * limitations under the License.
  *
  */
-package io.github.bonigarcia.webdriver.jupiter.ch03.locators_compound;
+package com.xyzcorp.ch03.locators_compound;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
